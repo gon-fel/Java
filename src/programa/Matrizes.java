@@ -1,3 +1,4 @@
+package programa;
 public class Matrizes {
     public static void main(String[] args) {
         int[][] matriz = {
