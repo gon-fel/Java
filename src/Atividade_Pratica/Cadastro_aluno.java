@@ -22,7 +22,7 @@ public class Cadastro_aluno {
     for (int n = 0; n < 4; n++){
         System.out.println("Analisando a nota do " + (n + 1));
     }
-    // Tratando as exceções
+    // Tratando as exceções e erros no arrays
     int[] numeros = {20, 30, 40};
     try {
         System.out.println(numeros[10]);
